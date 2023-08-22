@@ -1,7 +1,4 @@
 [
-	{"adder": 0},
-	{"adder": 1},
-	{"adder": 2},
-	{"adder": 3},
-	{"adder": 4}
+	{"step_in": ["0x0e0571bbb5f854c1a057e7f9747ab7d7a9b60031034ba647c1ca39dde44f2f7b", "0x001f"], "nullifier": 3, "nullifierHash": "0x280024c3da7c787f489de44cc389cb99981ceaebbf1cd07fcd0236ea99fb894d", "pathElements": ["0x2088d0e6cf788277daaf9df9c8c80e622b8f921317be7caa717fc976fc80cc68", "0x2098f5fb9e239eab3ceac3f27b81e481dc3124d55ffed523a839ee8446b64864"], "pathIndices": [0, 0]},
+	{"step_in": ["0x0e0571bbb5f854c1a057e7f9747ab7d7a9b60031034ba647c1ca39dde44f2f7b", "0x20a7169728184d74e2e839482a18899a37e8c0ad296bc353df6de6e8fcf8f251"], "nullifier": 5, "nullifierHash": "0x0a336d135f550efc5be349d371ce31288858a0ddd2ad3442bb19d33d5e24f7e4", "pathElements": ["0x3043ce8ad378d029838ba8eef2e18e68d25ec1e09586fa39b30bf83fd19832c3", "0x2098f5fb9e239eab3ceac3f27b81e481dc3124d55ffed523a839ee8446b64864"], "pathIndices": [1, 0]}
 ]
